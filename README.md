@@ -1,4 +1,4 @@
-# Sales Intelligence Dashboard
+# Task 2: Data Visualization and Storytelling
 
 ## Project Overview
 This Power BI dashboard analyzes Superstore sales data to identify trends, profitability, customer segments, and regional performance.
